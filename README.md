@@ -6,6 +6,20 @@ Open buyer reference covering China's 18-digit Unified Social Credit Code (**GB 
 
 ---
 
+## Free Interactive China Sourcing Calculators (2026–2027)
+
+All five browser-based buyer tools are free with zero login on the **[JFScope Free Tools Hub](https://jfscope.com/tools/)** (English, Español, Português):
+
+| Tool | What It Calculates | Direct Link |
+|---|---|---|
+| **Supplier Verify** | 18-digit GB 32100-2015 USCC check digit, `91`/`92`/`93` entity type, QR scan, PI bank check & GLEIF/RDAP | **[jfscope.com/verify/](https://jfscope.com/verify/)** |
+| **Supplier Status & 2027 Holidays** | Live Beijing factory/bank/port hours, Chinese New Year 2027 shutdowns (Feb 5–13) & reverse arrival lead-time math | **[jfscope.com/status/](https://jfscope.com/status/)** |
+| **Incoterms 2020 Chart** | 10-step cost allocation & risk transfer comparison (EXW, FCA, FOB, CIF, DAP, DDP) | **[jfscope.com/incoterms/](https://jfscope.com/incoterms/)** |
+| **CBM & Container Calculator** | Carton CBM, express/air chargeable weight, LCL W/M & 20GP/40GP/40HQ loading counts | **[jfscope.com/cbm/](https://jfscope.com/cbm/)** |
+| **AQL Sampling Calculator** | MIL-STD-105D inspection sample sizes & critical/major/minor Ac/Re limits | **[jfscope.com/aql/](https://jfscope.com/aql/)** |
+
+---
+
 ## 1. China 18-Digit USCC (GB 32100-2015) Structure
 
 Every registered Chinese company or market stall holds an 18-character Unified Social Credit Code (`统一社会信用代码`) using a 31-character base set (excluding `I`, `O`, `Z`, `S`, `V`) with a modulo-31 check digit:
